@@ -1,2 +1,2 @@
-# workshop-node
-Studying how to use Node.js in chatbot development and routing is another good option for those who want to learn.
+# workshop
+Studying the use of Node.js and javascript in development is another good choice for those who want to learn.
