@@ -7,7 +7,6 @@ const PORT = process.env.PORT || 3000;
 app.use(express.static('public'));
 app.use(express.json());
 
-// สร้าง MongoDB โดยแทนที่ <YOUR_MONGODB_URI> ด้วย URI ของ MongoDB ที่คุณใช้
 mongoose.connect('<YOUR_MONGODB_URI>', { useNewUrlParser: true, useUnifiedTopology: true });
 
 const dataSchema = new mongoose.Schema({
