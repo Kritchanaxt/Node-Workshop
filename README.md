@@ -1,2 +1,2 @@
 # workshop
-Studying the use of Node.js and javascript in development is another good choice for those who want to learn.
+Learning how to use Node.js and JavaScript in development is an excellent option for those looking to expand their skills.
