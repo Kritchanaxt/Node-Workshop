@@ -1,3 +1,0 @@
-1. Run code
-2. Use command .\index.js
-3. Use command .\register.js
